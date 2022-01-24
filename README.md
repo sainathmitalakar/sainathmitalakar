@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sainathmitalakar](https://github.com/sainathmitalakar)
 
-- 💬 Ask me about **Linux , Git , Jenkins , Ansible , SeleniumSplunk Nagios , Puppet , , ELK Stack , Chef , Docke ,r**
+- 💬 Ask me about **Linux , Git , Jenkins , Ansible , SeleniumSplunk Nagios , Puppet , , ELK Stack , Chef , Docke 
 
 - 📫 How to reach me **sainath8855@gmail.com**
 
