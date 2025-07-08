@@ -15,7 +15,10 @@
 
 - 💬 Ask me about ** DevOps Architecture 
 
-- 📫 How to reach me **sainath8855@gmail.com** **https://topmate.io/sainathmitalakar** **https://www.linkedin.com/in/sainathmitalakar/**
+- 📫 How to reach me 
+**sainath8855@gmail.com** 
+**https://topmate.io/sainathmitalakar**
+**https://www.linkedin.com/in/sainathmitalakar/**
 
 - ⚡ Fun fact **I think I,m Crazy For DevOps**
 
