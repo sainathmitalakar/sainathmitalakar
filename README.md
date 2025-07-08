@@ -13,17 +13,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sainathmitalakar](https://github.com/sainathmitalakar)
 
-- 💬 Ask me about **Linux , Git , Jenkins , Ansible , SeleniumSplunk Nagios , Puppet , , ELK Stack , Chef , Docker
+- 💬 Ask me about ** DevOps Architecture 
 
-- 📫 How to reach me **sainath8855@gmail.com**
+- 📫 How to reach me **sainath8855@gmail.com** **https://topmate.io/sainathmitalakar** **https://www.linkedin.com/in/sainathmitalakar/**
 
-- ⚡ Fun fact **I think I,m Crazy**
+- ⚡ Fun fact **I think I,m Crazy For DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saimitalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saimitalakar" height="30" width="40" /></a>
 <a href="https://fb.com/sainath shivajirao mitalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sainath shivajirao mitalakar" height="30" width="40" /></a>
-<a href="https://instagram.com/sainathmitalakar_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainathmitalakar_23" height="30" width="40" /></a>
+<a href="https://instagram.com/sainathmitalakar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainathmitalakar_23" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sainath mitalakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sainath mitalakar" height="30" width="40" /></a>
 </p>
 
