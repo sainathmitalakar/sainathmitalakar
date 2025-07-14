@@ -111,7 +111,7 @@
 </p>
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathmitalakar&layout=compact&exclude_repo=old-cpp-stuff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathmitalakar&layout=compact&langs_count=10" alt="sainathmitalakar" />
 </p>
 
 <p>
