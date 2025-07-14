@@ -115,10 +115,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathmitalakar&" alt="GitHub Streak" />
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sainathmitalakar)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sainathmitalakar)
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20Me-blueviolet?style=flat&logo=bookstack)](https://topmate.io/sainath)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/sainathmitalakar)
+
 #DevOps
 #Kubernetes
 #GitHub-Actions
