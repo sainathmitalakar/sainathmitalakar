@@ -111,7 +111,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathmitalakar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathmitalakar&exclude_repo=some-repo1,some-repo2&layout=compact" />
 </p>
 
 <p>
