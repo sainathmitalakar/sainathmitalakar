@@ -110,7 +110,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathmitalakar&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathmitalakar&show_icons=true&locale=en" alt="sainathmitalakar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathmitalakar&show_icons=true&locale=en&layout=compact" alt="sainathmitalakar" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathmitalakar&" alt="GitHub Streak" />
