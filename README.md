@@ -69,7 +69,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
-- 🔭 I’m currently working as a **DevOps Engineer**  
+- 🔭 I’m currently working as a **DevOps Engineer For T-Mobile USA**  
 - 🌱 I’m currently learning and implementing **Cloud-Native DevOps, GitHub Actions, Observability & Platform Engineering**
 - 👨‍💻 Explore all my projects at [github.com/sainathmitalakar](https://github.com/sainathmitalakar)
 - 💬 Ask me about **DevOps Architecture**, **CI/CD Pipelines**, **Docker & Kubernetes**, **Cloud Migrations**, **Infra Automation**
