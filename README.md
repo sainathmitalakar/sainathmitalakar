@@ -69,7 +69,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
-- 🔭 I’m currently working as a **DevOps Engineer For T-Mobile USA**  
+- 🔭 I’m currently working as a **DevOps Engineer For T-Mobile USA(Offshore) Cureently for Delta 360 Services Dubai, UAE**  
 - 🌱 I’m currently learning and implementing **Cloud-Native DevOps, GitHub Actions, Observability & Platform Engineering**
 - 👨‍💻 Explore all my projects at [github.com/sainathmitalakar](https://github.com/sainathmitalakar)
 - 💬 Ask me about **DevOps Architecture**, **CI/CD Pipelines**, **Docker & Kubernetes**, **Cloud Migrations**, **Infra Automation**
@@ -78,6 +78,8 @@ Do NOT delete, but GitHub will ignore it in rendering.
   **✉️ sainath8855@gmail.com**  
   **🌐 [Topmate](https://topmate.io/sainathmitalakar)**  
   **💼 [LinkedIn](https://www.linkedin.com/in/sainathmitalakar/)**  
+  **🌟 Top 100 DevOps Thought Leader on [Thinkers360](https://www.thinkers360.com/tl/profiles/view/31566)**
+
 - ⚡ Fun fact: **I'm absolutely obsessed with DevOps and I automate everything I touch**
 
 ---
