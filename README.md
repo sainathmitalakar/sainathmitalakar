@@ -69,7 +69,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
-- 🔭 I’m currently working as a **DevOps Engineer For T-Mobile USA(Offshore) Cureently for Delta 360 Services Dubai, UAE**  
+- 🔭 I’m currently working as a **DevOps Engineer For T-Mobile USA(Offshore) & Delta 360 Services Dubai, UAE**  
 - 🌱 I’m currently learning and implementing **Cloud-Native DevOps, GitHub Actions, Observability & Platform Engineering**
 - 👨‍💻 Explore all my projects at [github.com/sainathmitalakar](https://github.com/sainathmitalakar)
 - 💬 Ask me about **DevOps Architecture**, **CI/CD Pipelines**, **Docker & Kubernetes**, **Cloud Migrations**, **Infra Automation**
@@ -97,6 +97,9 @@ Do NOT delete, but GitHub will ignore it in rendering.
   </a>
   <a href="https://www.youtube.com/c/sainath mitalakar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
+  <a href="https://www.thinkers360.com/tl/profiles/view/31566" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/thinkers360.svg" alt="thinkers360" height="30" width="40" />
   </a>
 </p>
 
