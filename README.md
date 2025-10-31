@@ -78,7 +78,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
   **✉️ sainath8855@gmail.com**  
   **🌐 [Topmate](https://topmate.io/sainathmitalakar)**  
   **💼 [LinkedIn](https://www.linkedin.com/in/sainathmitalakar/)**  
-  **🌟 Top 100 DevOps Thought Leader on [Thinkers360](https://www.thinkers360.com/tl/profiles/view/31566)**
+  **🌟 Top 25 Global DevOps Thought Leader & Top 50 IT Leadership on [Thinkers360](https://www.thinkers360.com/tl/profiles/view/31566)**
 
 - ⚡ Fun fact: **I'm absolutely obsessed with DevOps and I automate everything I touch**
 
