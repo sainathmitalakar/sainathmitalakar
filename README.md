@@ -48,7 +48,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 #GitHubSEO
 -->
 
-<h1 align="center">Hi👋, I'm  Sainath S Mitalakar 👻 </h1>
+<h1 align="center">Hi👋, I'm  Sainath S. Mitalakar 👻 </h1>
 <h3 align="center">A passionate DevOps Engineer from India, focused on automation, scalability, and cloud-native excellence.</h3>
 
 <p align="left">
