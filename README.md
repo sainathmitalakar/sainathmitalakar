@@ -49,16 +49,17 @@ Do NOT delete, but GitHub will ignore it in rendering.
 <!-- ================== AI Chat Intro Section ================== -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Sainath;🌍+Global+Expert+in+DevOps+and+Top+IT+Leader;🤝+Follow+Me+and+Invite+Me+for+Open+Source+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Sainath;🌍+Global+Expert+in+DevOps+and+Top+IT+Leader;🤝+Follow+Me+and+Invite+Me+for+Open+Source+Collaboration!" alt="Typing SVG" />
 
   <br><br>
 
   <a href="https://github.com/sainathmitalakar" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 
 </div>
 <!-- ============================================================ -->
+
 
 
 
