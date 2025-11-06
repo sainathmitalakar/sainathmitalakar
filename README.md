@@ -254,4 +254,12 @@ every merge a mission, every repo a revolution._
   💭 <i>Every push echoes in the network —  
   this is not just code, it’s **frequency engineering.**</i>
 </h4>
+<!-- ================== GitHub Contribution Graph ================== -->
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainathmitalakar&bg_color=000000&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=Sainath's%20Contribution%20Graph" alt="Sainath's GitHub Activity Graph"/>
+
+</div>
+<!-- =============================================================== -->
+
 
