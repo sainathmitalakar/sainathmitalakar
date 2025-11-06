@@ -256,3 +256,12 @@ every merge a mission, every repo a revolution._
 </h4>
 
 <!-- ============================================================ -->
+<!-- ================== 🐍 CONTRIBUTION SNAKE ================== -->
+<h2 align="center">🐍 Rolling Through the Contribution Matrix</h2>
+
+<p align="center">
+  <img src="https://github.com/sainathmitalakar/sainathmitalakar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- ============================================================ -->
+
