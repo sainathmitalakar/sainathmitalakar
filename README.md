@@ -103,31 +103,63 @@ Do NOT delete, but GitHub will ignore it in rendering.
 ### 🧰 Arsenal of Tools
 > _From Infrastructure to Insight — my toolkit covers the entire DevOps spectrum._
 
-#### **Programming & Scripting**
-`Python` · `Bash` · `Node.js` · `Java` · `PowerShell` · `Go (Learning)`
+#### ⚙️ Programming & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,nodejs,java,powershell,go" />
+</p>
 
-#### **Source Control**
-`Git` · `GitHub` · `GitLab` · `Bitbucket`
+#### 🧬 Source Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+</p>
 
-#### **CI/CD**
-`Jenkins` · `GitHub Actions` · `Azure DevOps` · `CircleCI` · `ArgoCD`
+#### 🚀 CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,azure,bitbucket" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EB5424?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
 
-#### **Containers & Orchestration**
-`Docker` · `Kubernetes` · `Helm` · `Kustomize` · `Istio`
+#### 🐳 Containers & Orchestration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+</p>
 
-#### **Infrastructure as Code**
-`Terraform` · `Ansible` · `Pulumi` · `AWS CloudFormation`
+#### 🏗️ Infrastructure as Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-#### **Monitoring & Observability**
-`Grafana` · `Prometheus` · `Loki` · `Tempo` · `Mimir` · `Elastic Stack` · `OpenTelemetry` · `Datadog`
+#### 📈 Monitoring & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-00BFAE?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tempo-5A45FF?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mimir-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-683D87?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
 
-#### **Security & DevSecOps**
-`Trivy` · `Snyk` · `Checkmarx` · `SonarQube` · `OWASP` · `Black Duck`
+#### 🔐 Security & DevSecOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Trivy-7B42BC?style=for-the-badge&logo=trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Checkmarx-54B948?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Black%20Duck-000000?style=for-the-badge&logo=blackducksoftware&logoColor=white" />
+</p>
 
-#### **Cloud Platforms**
-`AWS` · `Azure` · `GCP` · `Oracle Cloud` (exploring)
-
----
+#### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,oracle" />
+</p>
 
 ### 🧩 Metrics Dashboard
 
