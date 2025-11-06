@@ -53,12 +53,13 @@ Do NOT delete, but GitHub will ignore it in rendering.
 </p>
 <p align="center">
   <a href="https://github.com/sainathmitalakar" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-me-on-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow--me--on--GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
   <a href="https://github.com/sainathmitalakar?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Star-my-repos-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Star my repos" />
+    <img src="https://img.shields.io/badge/Star--my--repos-%2300FF00.svg?style=for-the-badge&logo=github&logoColor=white" alt="Star my repos" />
   </a>
 </p>
+
 
 <h3 align="center">⚙️ DevOps Engineer | Cloud Architect | Automation Alchemist</h3>
 <h4 align="center">Building bridges between code, cloud, and chaos — securely, scalably, and silently.</h4>
