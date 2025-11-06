@@ -49,7 +49,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 <!-- ================== AI Chat Intro Section ================== -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Sainath;🌍+Global+Expert+in+DevOps+and+Top+IT+Leader;🤝+Follow+Me+and+Invite+Me+for+Open+Source+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=400&lines=👋+Hi,+I'm+Sainath;🌍+Global+Expert+in+DevOps+and+Top+IT+Leader;🤝+Follow+Me+and+Invite+Me+for+Open+Source+Collaboration!" alt="Typing SVG" />
 
   <br><br>
 
@@ -59,6 +59,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 </div>
 <!-- ============================================================ -->
+
 
 
 
