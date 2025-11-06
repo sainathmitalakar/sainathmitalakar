@@ -255,13 +255,3 @@ every merge a mission, every repo a revolution._
   this is not just code, it’s **frequency engineering.**</i>
 </h4>
 
-<!-- ============================================================ -->
-<!-- ================== 🐍 CONTRIBUTION SNAKE ================== -->
-<h2 align="center">🐍 Rolling Through the Contribution Matrix</h2>
-
-<p align="center">
-  <img src="https://github.com/sainathmitalakar/sainathmitalakar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- ============================================================ -->
-
