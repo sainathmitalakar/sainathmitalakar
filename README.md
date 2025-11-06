@@ -187,23 +187,8 @@ Do NOT delete, but GitHub will ignore it in rendering.
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,oracle" />
 </p>
 
-### 🧩 Metrics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainathmitalakar&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainathmitalakar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathmitalakar&theme=tokyonight" />
-</p>
-
----
-
-### ⚔️ Motto
 > _"Automate like a hacker. Deploy like an artist. Secure like a ghost."_  
 > — Sainath Mitalakar
 
@@ -211,7 +196,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
-### 🧠 Contribution Matrix  
+
 > _Every commit, every push — a pulse in the digital grid._
 
 <p align="center">
@@ -233,7 +218,7 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
-### ⚡ Real-Time Digital Pulse
+
 > _Rolling through 243+ contributions in the last year —  
 every commit a signal, every repo a frequency._
 
@@ -244,7 +229,7 @@ every commit a signal, every repo a frequency._
 ---
 ---
 
-### 🧩 Learn How We Count Contributions  
+
 > _But here, it’s not just about numbers..._
 
 <p align="center">
