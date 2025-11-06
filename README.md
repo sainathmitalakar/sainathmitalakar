@@ -46,7 +46,16 @@ Do NOT delete, but GitHub will ignore it in rendering.
 #Observability
 -->
 
-<h1 align="center">👋 Welcome to the Digital Terminal — I’m <span style="color:#00ffc8;">Sainath S. Mitalakar</span> 👻</h1>
+<h1 align="center">👋 Welcome to the Digital Terminal — I’m <span style="color:#00ffc8;">Sainath S. Mitalakar</span> 👻</h1> 
+<!-- ==================== CYBER ASCII HEADER ==================== -->
+
+```text
+      ╔══════════════════════════════════════════════════╗
+      ║     W E L C O M E   T O   M Y   R E P O S I T O R Y    ║
+      ║══════════════════════════════════════════════════║
+      ║  “Automation is the art of invisible precision.”  ║
+      ║     — Sainath Shivaji Mitalakar                   ║
+      ╚══════════════════════════════════════════════════╝
 
 <p align="center">
   <img width="901" height="321" alt="Sainath Mitalakar" src="https://github.com/user-attachments/assets/17509420-9239-41f2-999c-b25c57394280" />
