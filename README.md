@@ -46,7 +46,20 @@ Do NOT delete, but GitHub will ignore it in rendering.
 #Observability
 -->
 
-<h1 align="center">👋 Welcome to the Digital Terminal, I’m <span style="color:#00ffc8;">Sainath S. Mitalakar</span> 👻</h1> 
+<!-- ================== AI Chat Intro Section ================== -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sainath;🌍+Global+Expert+in+DevOps+and+Top+IT+Leader;🤝+Follow+Me+and+Invite+Me+for+Open+Source+Collaboration!" alt="Typing SVG" />
+
+  <br><br>
+
+  <a href="https://github.com/sainathmitalakar" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+
+</div>
+<!-- ============================================================ -->
+
 
 <p align="center">
   <img width="901" height="321" alt="Sainath Mitalakar" src="https://github.com/user-attachments/assets/17509420-9239-41f2-999c-b25c57394280" />
