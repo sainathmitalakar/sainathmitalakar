@@ -183,4 +183,37 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 ---
 
+---
+
+### 🧠 Contribution Matrix  
+> _Every commit, every push — a pulse in the digital grid._
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SainathMitalakar&theme=matrix&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainathMitalakar&theme=tokyonight&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SainathMitalakar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainathMitalakar&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SainathMitalakar&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### ⚡ Real-Time Digital Pulse
+> _Rolling through 243+ contributions in the last year —  
+every commit a signal, every repo a frequency._
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Contribution+Network...;Syncing+Codebase...;Deploying+Digital+Legacy...;243+Contributions+and+Counting..." alt="Typing SVG" />
+</p>
+
+---
 
