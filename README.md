@@ -219,42 +219,40 @@ Do NOT delete, but GitHub will ignore it in rendering.
 ---
 
 
-> _Rolling through 243+ contributions in the last year —  
-every commit a signal, every repo a frequency._
+<!-- ================== ⚡ DIGITAL CONTRIBUTION NETWORK ================== -->
+
+> _⚡ Surging through 243+ digital commits —  
+every merge a mission, every repo a revolution._
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Contribution+Network...;Syncing+Codebase...;Deploying+Digital+Legacy...;243+Contributions+and+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=480&lines=Booting+Contribution+Matrix...;Loading+Repositories...;Activating+Neural+Pipelines...;Deploying+Innovation+Cluster...;243%2B+Commits+Online..." alt="Typing SVG" />
 </p>
 
 ---
----
 
-
-> _But here, it’s not just about numbers..._
+> _This isn’t code... it’s a **frequency.**_
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF00&center=true&vCenter=true&width=460&lines=Counting+Commits...;Merging+Pull+Requests...;Tracking+Deployments...;Logging+Digital+Footprints...;Calibrating+Contribution+Matrix...;All+Signals+Synced+✅" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=470&lines=Scanning+Commit+Timeline...;Tracking+Code+Beats...;Merging+Pulse+Patterns...;Monitoring+Signal+Integrity...;All+Systems+Synced+🟢" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SainathMitalakar&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sainathmitalakar&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-243%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Activity-Live%20Monitor-00FF00?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-System%20Online%20%E2%9C%85-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits-243%2B-brightgreen?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/System-Online%20🟢-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mode-Hacker%20Active-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=black" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2&section=footer&animation=blink" />
 </p>
 
 <h4 align="center">
-  💭 <i>Every contribution is a story, every repo a ripple in the network.</i>
+  💭 <i>Every push echoes in the network —  
+  this is not just code, it’s **frequency engineering.**</i>
 </h4>
 
----
-
+<!-- ============================================================ -->
