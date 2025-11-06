@@ -216,4 +216,34 @@ every commit a signal, every repo a frequency._
 </p>
 
 ---
+---
+
+### 🧩 Learn How We Count Contributions  
+> _But here, it’s not just about numbers..._
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF00&center=true&vCenter=true&width=460&lines=Counting+Commits...;Merging+Pull+Requests...;Tracking+Deployments...;Logging+Digital+Footprints...;Calibrating+Contribution+Matrix...;All+Signals+Synced+✅" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SainathMitalakar&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-243%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Activity-Live%20Monitor-00FF00?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-System%20Online%20%E2%9C%85-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2&section=footer&animation=blink" />
+</p>
+
+<h4 align="center">
+  💭 <i>Every contribution is a story, every repo a ripple in the network.</i>
+</h4>
+
+---
 
