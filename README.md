@@ -258,12 +258,7 @@ every merge a mission, every repo a revolution._
 </div>
 <!-- =============================================================== -->
 
-## 🌟 Star History (All Repos)
+[![GitHub stars](https://img.shields.io/github/stars/sainathmitalakar?style=social)](https://github.com/sainathmitalakar)
 
-<!-- Demo star history (clearly labelled, not real GitHub data) -->
-<p align="center">
-  <img src="assets/demo-star-history.svg" alt="Demo Star History — 66 stars (not actual GitHub data)" width="900"/>
-  <p style="font-size:12px;margin-top:6px;">Demo — not actual GitHub star data</p>
-</p>
 
 
