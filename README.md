@@ -258,4 +258,11 @@ every merge a mission, every repo a revolution._
 </div>
 <!-- =============================================================== -->
 
+## 🌟 Star History (All Repos)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?user=sainathmitalakar&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?user=sainathmitalakar&type=Date" />
+  <img alt="GitHub Star History Chart for all repositories" src="https://api.star-history.com/svg?user=sainathmitalakar&type=Date" />
+</picture>
 
