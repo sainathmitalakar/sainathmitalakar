@@ -260,9 +260,10 @@ every merge a mission, every repo a revolution._
 
 ## 🌟 Star History (All Repos)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?user=sainathmitalakar&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?user=sainathmitalakar&type=Date" />
-  <img alt="GitHub Star History Chart for all repositories" src="https://api.star-history.com/svg?user=sainathmitalakar&type=Date" />
-</picture>
+<!-- Demo star history (clearly labelled, not real GitHub data) -->
+<p align="center">
+  <img src="assets/demo-star-history.svg" alt="Demo Star History — 66 stars (not actual GitHub data)" width="900"/>
+  <p style="font-size:12px;margin-top:6px;">Demo — not actual GitHub star data</p>
+</p>
+
 
