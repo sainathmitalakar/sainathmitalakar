@@ -215,14 +215,6 @@ Do NOT delete, but GitHub will ignore it in rendering.
 ---
 
 
-<!-- ================== ⚡ DIGITAL CONTRIBUTION NETWORK ================== -->
-
-> _⚡ Surging through 243+ digital commits —  
-every merge a mission, every repo a revolution._
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=480&lines=Booting+Contribution+Matrix...;Loading+Repositories...;Activating+Neural+Pipelines...;Deploying+Innovation+Cluster...;243%2B+Commits+Online..." alt="Typing SVG" />
-</p>
 
 ---
 
