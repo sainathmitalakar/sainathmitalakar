@@ -66,7 +66,8 @@ Do NOT delete, but GitHub will ignore it in rendering.
 
 
 <p align="center">
-  <img width="901" height="321" alt="Sainath Mitalakar" src="https://github.com/user-attachments/assets/17509420-9239-41f2-999c-b25c57394280" />
+  <img width="596" height="293" alt="image" src="https://github.com/user-attachments/assets/e2a1057f-f320-48ab-b1b0-df5e9c24d0b6" />
+
 </p>
 <p align="center">
   <a href="https://github.com/sainathmitalakar" target="_blank">
