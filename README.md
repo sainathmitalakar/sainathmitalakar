@@ -197,11 +197,6 @@ Do NOT delete, but GitHub will ignore it in rendering.
 ---
 
 
-> _Every commit, every push — a pulse in the digital grid._
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainathMitalakar&theme=tokyonight&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SainathMitalakar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
